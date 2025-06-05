@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleExcel": {
+      "commandName": "Project",
+      "commandLineArgs": "--file D:\\DEV\\Dev.OpenXML\\ConsoleExcel\\Book1.xlsx --option test1"
+    }
+  }
+}
